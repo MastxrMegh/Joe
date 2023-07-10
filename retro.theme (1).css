@@ -1,0 +1,38 @@
+/**
+ * @name Retro 0.2
+ * @author Tropical#8908, Hammock#3110
+ * @version 3.0.0
+ * @description A cold, dark & frosty theme.
+ * @source https://github.com/DiscordStyles/DarkMatter/
+ * @BDEditor Dark Matter
+*/
+
+@import url('https://DiscordStyles.github.io/DarkMatter/src/base.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --background-image: url('https://i.pinimg.com/originals/ad/ce/9e/adce9e5f66922faf24a16da02da74167.gif');
+  --home-image: url('https://i.pinimg.com/originals/ad/ce/9e/adce9e5f66922faf24a16da02da74167.gif');
+  --accent: 66,0,184;
+  --accent-alt: 43,148,233;
+  --background-solid: #000000;
+  --background-solid-dark: #101218;
+  --background-solid-darker: #0c0e12;
+  --rs-small-spacing: 0px;
+  --rs-medium-spacing: 0px;
+  --rs-large-spacing: 5px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
